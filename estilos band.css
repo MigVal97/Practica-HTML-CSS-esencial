@@ -1,0 +1,41 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+body{ 
+    
+    background-color:rgb(5,61,246);
+    background: linear-gradient(279deg, rgba(5,61,246,1) 0%, rgba(234,235,238,1) 100%);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#Albums{
+    background-color:rgb(111,3,190);
+    background: linear-gradient(279deg, rgba(111,3,190,1) 0%, rgba(13,81,230,1) 100%);
+ }
+
+ ol{
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+
+    }
+
+    li{
+        font-style: normal;
+        font-size: x-large;
+    }
+
+    p{
+        font-size: x-large;
+    }
+
+#gojira{
+
+    text-align: center;
+}

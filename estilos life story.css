@@ -1,0 +1,21 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    font-size: x-large;
+
+
+}
+
+.head{
+    text-align: center;
+    font-size: x-large;
+    text-decoration: underline;
+    color: crimson;
+}

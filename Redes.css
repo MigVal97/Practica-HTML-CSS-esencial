@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-image: url(../assets/Redes.png)
+
+}
+
+#logo{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: large;
+    color:black;
+    font-variant: small-caps;
+    font-size: xx-large;
+    text-decoration: underline;
+    
+}
+
+ul{
+    text-align: center;
+    font-size: large;
+}
+
+p{
+    text-align: center;
+    font-style: bold;
+    font-size: x-large;
+}
